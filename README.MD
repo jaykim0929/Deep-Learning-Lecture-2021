@@ -1,4 +1,4 @@
-# DATA-ANALYSIS-2020
+# Deep-Learning-Lecture-2021
 
 ####  강좌
 
